@@ -70,7 +70,7 @@ function uploadTransactions() {
           // clear all items in your store
           pizzaObjectStore.clear();
 
-          alert('All saved transactions submitted!');
+          console.log('All saved transactions submitted!');
         })
         .catch(err => {
           console.log(err);

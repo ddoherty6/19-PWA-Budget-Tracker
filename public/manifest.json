@@ -45,6 +45,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#01579b",
-    "start_url": "./",
+    "start_url": "https://mighty-crag-64966.herokuapp.com/",
     "display": "standalone"
 }
